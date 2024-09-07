@@ -1,1 +1,2 @@
 # inventorymanagement
+As a Software Development Intern, I contributed to designing, developing, and deploying an Office Inventory Management System, a critical project aimed at efficiently managing office assets and supplies for employees. This project involved the development of front-end(HTML, CSS) and back-end(PHP, SQL), working closely with a mentor and team members to deliver a robust solution.
